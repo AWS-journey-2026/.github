@@ -5,7 +5,7 @@
 
 Hi there! I'm **Victor**, a 20-year-old developer from Brazil and a programming apprentice at **Bosch**.
 
-This organization documents my **"Learning in Public"** roadmap as I prepare to compete in the **São Paulo Skills 2026** in the **Cloud Computing (#53)** category.
+This organization documents my roadmap as I prepare to compete in the **São Paulo Skills 2026** in the **Cloud Computing (#53)** category.
 
 ### 🎯 My Mission
 To master AWS, Linux, and DevOps practices in 4 months, aiming for the **Gold Medal** in the state competition and securing a spot for the WorldSkills.
